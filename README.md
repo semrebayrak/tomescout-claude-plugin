@@ -24,15 +24,15 @@ This plugin adds the TomeScout connector plus three skills: `kdp-keywords`, `kdp
 /plugin install tomescout@tomescout
 ```
 
-**Claude (web, desktop, mobile)** — Settings → Connectors → Add custom connector → `https://tomescout.vercel.app/mcp`. No sign-in needed.
+**Claude (web, desktop, mobile)** — Settings → Connectors → Add custom connector → `https://tomescout.com/mcp`. No sign-in needed.
 
-**Any MCP client** — remote Streamable HTTP server at `https://tomescout.vercel.app/mcp`.
+**Any MCP client** — remote Streamable HTTP server at `https://tomescout.com/mcp`.
 
-Docs: https://tomescout.vercel.app/docs
+Docs: https://tomescout.com/docs
 
 ## What the connector can see
 
-TomeScout only receives the arguments Claude sends to its tools (seed phrases, candidate keywords, the metadata you ask it to check). It does not read your conversation, files or memory, and it has no accounts. Seed phrases are sent to Amazon's public search-suggestion service. Privacy policy: https://tomescout.vercel.app/privacy
+TomeScout only receives the arguments Claude sends to its tools (seed phrases, candidate keywords, the metadata you ask it to check). It does not read your conversation, files or memory, and it has no accounts. Seed phrases are sent to Amazon's public search-suggestion service. Privacy policy: https://tomescout.com/privacy
 
 ## Honest data
 

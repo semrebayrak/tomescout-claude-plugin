@@ -13,7 +13,7 @@ confirmed issues as quickly as their severity requires.
 ## Scope
 
 - This plugin (skills and MCP configuration).
-- The hosted TomeScout MCP server at `https://tomescout.vercel.app/mcp`.
+- The hosted TomeScout MCP server at `https://tomescout.com/mcp`.
 
 The plugin contains no credentials and no executable code; it connects to the
 hosted server over HTTPS.
