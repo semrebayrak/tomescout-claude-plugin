@@ -1,0 +1,14 @@
+{
+  "name": "tomescout",
+  "displayName": "TomeScout",
+  "version": "1.0.0",
+  "description": "Amazon KDP research for self-published authors: live Amazon.com search-suggestion keyword research, KDP-safe keyword boxes, Amazon Ads keyword lists, listing checks against KDP guidelines, royalty calculator and sales-from-rank estimates.",
+  "author": {
+    "name": "TomeScout",
+    "url": "https://tomescout.vercel.app"
+  },
+  "homepage": "https://tomescout.vercel.app/docs",
+  "repository": "https://github.com/semrebayrak/tomescout-claude-plugin",
+  "license": "MIT",
+  "keywords": ["kdp", "amazon", "kindle", "self-publishing", "authors", "books", "keywords", "amazon-ads", "royalties"]
+}

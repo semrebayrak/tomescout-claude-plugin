@@ -1,0 +1,15 @@
+{
+  "name": "tomescout",
+  "description": "TomeScout: Amazon KDP keyword research and listing tools for self-published authors.",
+  "owner": {
+    "name": "TomeScout",
+    "url": "https://tomescout.vercel.app"
+  },
+  "plugins": [
+    {
+      "name": "tomescout",
+      "source": "./",
+      "description": "Amazon KDP keyword research, keyword boxes, Amazon Ads lists, listing checks, royalties and sales-from-rank estimates for self-published authors."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tomescout": {
+      "type": "http",
+      "url": "https://tomescout.vercel.app/mcp"
+    }
+  }
+}
