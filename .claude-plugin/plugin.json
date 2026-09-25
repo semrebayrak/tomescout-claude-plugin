@@ -8,7 +8,22 @@
     "url": "https://tomescout.com"
   },
   "homepage": "https://tomescout.com/docs",
+  "documentationUrl": "https://tomescout.com/docs",
+  "privacyPolicyUrl": "https://tomescout.com/privacy",
+  "termsOfServiceUrl": "https://tomescout.com/terms",
+  "supportUrl": "https://github.com/semrebayrak/tomescout-claude-plugin/issues",
   "repository": "https://github.com/semrebayrak/tomescout-claude-plugin",
   "license": "MIT",
-  "keywords": ["kdp", "amazon", "kindle", "self-publishing", "authors", "books", "keywords", "amazon-ads", "royalties"]
+  "icon": ".claude-plugin/icon.svg",
+  "keywords": [
+    "kdp",
+    "amazon",
+    "kindle",
+    "self-publishing",
+    "authors",
+    "books",
+    "keywords",
+    "amazon-ads",
+    "royalties"
+  ]
 }
