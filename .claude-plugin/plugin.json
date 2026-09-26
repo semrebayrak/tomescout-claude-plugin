@@ -1,8 +1,8 @@
 {
   "name": "tomescout",
   "displayName": "TomeScout",
-  "version": "1.0.0",
-  "description": "Amazon KDP research for self-published authors: live Amazon.com search-suggestion keyword research, KDP-safe keyword boxes, Amazon Ads keyword lists, listing checks against KDP guidelines, royalty calculator and sales-from-rank estimates.",
+  "version": "1.1.0",
+  "description": "KDP listing tools for self-published authors: pack the seven KDP keyword boxes, check a listing against KDP's published guidelines, compare royalties across Amazon stores and estimate sales from a Best Sellers Rank. Nothing is fetched from Amazon.",
   "author": {
     "name": "TomeScout",
     "url": "https://tomescout.com"
@@ -22,8 +22,8 @@
     "self-publishing",
     "authors",
     "books",
-    "keywords",
-    "amazon-ads",
-    "royalties"
+    "keyword-boxes",
+    "royalties",
+    "listing-check"
   ]
 }
