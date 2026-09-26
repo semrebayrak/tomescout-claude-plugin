@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tomescout-toolkit": {
+      "type": "http",
+      "url": "https://tomescout.com/mcp/toolkit"
+    }
+  }
+}

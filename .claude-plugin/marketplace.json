@@ -10,6 +10,11 @@
       "name": "tomescout",
       "source": "./",
       "description": "Amazon KDP keyword research, keyword boxes, Amazon Ads lists, listing checks, royalties and sales-from-rank estimates for self-published authors."
+    },
+    {
+      "name": "tomescout-toolkit",
+      "source": "./toolkit",
+      "description": "KDP keyword boxes, listing checks against KDP guidelines, royalties and sales-from-rank estimates. Calculation only; nothing is fetched from Amazon."
     }
   ]
 }

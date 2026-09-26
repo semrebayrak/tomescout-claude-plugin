@@ -1,0 +1,19 @@
+{
+  "name": "tomescout-toolkit",
+  "displayName": "TomeScout Toolkit",
+  "version": "1.0.0",
+  "description": "KDP listing tools for self-published authors: pack the seven KDP keyword boxes, check a listing against KDP's published guidelines, compare royalties across Amazon stores and estimate sales from a Best Sellers Rank. Calculation only; nothing is fetched from Amazon.",
+  "author": {
+    "name": "TomeScout",
+    "url": "https://tomescout.com"
+  },
+  "homepage": "https://tomescout.com/docs#toolkit",
+  "documentationUrl": "https://tomescout.com/docs#toolkit",
+  "privacyPolicyUrl": "https://tomescout.com/privacy",
+  "termsOfServiceUrl": "https://tomescout.com/terms",
+  "supportUrl": "https://github.com/semrebayrak/tomescout-claude-plugin/issues",
+  "repository": "https://github.com/semrebayrak/tomescout-claude-plugin",
+  "license": "MIT",
+  "icon": ".claude-plugin/icon.svg",
+  "keywords": ["kdp", "amazon", "kindle", "self-publishing", "authors", "books", "keyword-boxes", "royalties", "listing-check"]
+}

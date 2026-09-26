@@ -30,6 +30,12 @@ This plugin adds the TomeScout connector plus three skills: `kdp-keywords`, `kdp
 
 Docs: https://tomescout.com/docs
 
+### TomeScout Toolkit (second plugin in this marketplace)
+
+[`toolkit/`](toolkit) holds `tomescout-toolkit`: the four calculation tools (`keyword_boxes`, `check_listing`,
+`royalty_calculator`, `bsr_to_sales`) from `https://tomescout.com/mcp/toolkit`, which never contacts Amazon or any
+other site, plus two skills. Install it with `/plugin install tomescout-toolkit@tomescout`.
+
 ## What the connector can see
 
 TomeScout only receives the arguments Claude sends to its tools (seed phrases, candidate keywords, the metadata you ask it to check). It does not read your conversation, files or memory, and it has no accounts. Seed phrases are sent to Amazon's public search-suggestion service. Privacy policy: https://tomescout.com/privacy
